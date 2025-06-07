@@ -67,7 +67,7 @@ The dashboard answers the following key business questions:
 
 ## 📂 Repository Structure
 
-
+```
 /ELECTROHUB-Sales-Analysis/
 │
 ├── ELECTROHUB - Sales Data Analysis.pbix     # Power BI dashboard file
@@ -79,7 +79,7 @@ The dashboard answers the following key business questions:
 |   └── req_5.png
 |   └── top_bottom_5.png                          # Detailed list of business questions
 ├── README.md                                  # Project documentation
-
+```
 ---
 
 ## 🧰 Tools & Technologies
