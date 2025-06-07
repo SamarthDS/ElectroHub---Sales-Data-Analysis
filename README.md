@@ -130,7 +130,7 @@ Here are a few screenshots showcasing the dashboard's analysis and visuals:
 ## 📧 Contact
 
 For questions, improvements, or collaboration opportunities:  
-**GitHub**: [https://github.com/SamarthDS](https://github.com/SamarthDS)  
+**GitHub**: [https://github.com/SamarthDS/ElectroHub---Sales-Data-Analysis](https://github.com/SamarthDS/ElectroHub---Sales-Data-Analysis)  
 **Email**: samarthdudi04@gmail.com
 
 ---
