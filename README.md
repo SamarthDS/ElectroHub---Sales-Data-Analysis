@@ -106,7 +106,7 @@ The dashboard answers the following key business questions:
 Here are a few screenshots showcasing the dashboard's analysis and visuals:
 
 
-```
+
 ![Dashboard Overview](assets/overview.png)
 
 ![City-wise Sales Analysis 1](assets/req_5.png)
@@ -114,7 +114,7 @@ Here are a few screenshots showcasing the dashboard's analysis and visuals:
 ![City-wise Sales Analysis 2](assets/req_4.png)
 
 ![Top/Bottom Products](assets/top_bottom_5.png)
-```
+
 
 ---
 
