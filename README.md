@@ -67,15 +67,18 @@ The dashboard answers the following key business questions:
 
 ## 📂 Repository Structure
 
-```
+
 /ELECTROHUB-Sales-Analysis/
 │
 ├── ELECTROHUB - Sales Data Analysis.pbix     # Power BI dashboard file
+├── Power+BI+Project+1+Requirements.pptx      #Includes KPI's
+├── Store Data.xlsx
 ├── assets/
-│   ├── intro-kpis.png                         # Overview and KPI introduction
-│   └── questions.png                          # Detailed list of business questions
+│   ├── overview.png                         # Overview and KPI introduction
+│   └── req_4.png
+|   └── req_5.png
+|   └── top_bottom_5.png                          # Detailed list of business questions
 ├── README.md                                  # Project documentation
-```
 
 ---
 
@@ -130,7 +133,7 @@ Here are a few screenshots showcasing the dashboard's analysis and visuals:
 ## 📧 Contact
 
 For questions, improvements, or collaboration opportunities:  
-**GitHub**: [https://github.com/SamarthDS/ElectroHub---Sales-Data-Analysis](https://github.com/SamarthDS/ElectroHub---Sales-Data-Analysis)  
+**LinkedIn**: [Samarth D S](https://www.linkedin.com/in/samarthds/)
 **Email**: samarthdudi04@gmail.com
 
 ---
