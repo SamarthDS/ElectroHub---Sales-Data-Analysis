@@ -3,13 +3,13 @@
 
 ## 📝 Project Overview
 
-**Electrohub** is a retail store that offers a wide range of consumer products. This Power BI project focuses on analyzing the store's sales performance and extracting valuable business insights from the data.
+**Electrohub** is a retail store that offers a wide range of consumer products. This Power BI project focuses on analysing the store's sales performance and extracting valuable business insights from the data.
 
-The dashboard helps decision-makers explore sales, profit, discount behavior, and other metrics across various dimensions such as product categories, time periods, cities, and individual orders.
+The dashboard enables decision-makers to explore sales, profit, discount behaviour, and other metrics across various dimensions, including product categories, time periods, cities, and individual orders.
 
 ---
 
-## 🛍️ Product Categories Analyzed
+## 🛍️ Product Categories Analysed
 
 - Electronics  
 - Footwear  
@@ -33,14 +33,14 @@ The dashboard answers the following key business questions:
    - **Quantity Sold**
 
 2. **📈 Sales Trend Over Time**  
-   Analyze how sales vary over time on:
+   Analyse how sales vary over time on:
    - **Daily**
    - **Monthly**
    - **Quarterly**
    - **Annual** basis
 
 3. **📊 Relationship Between Sales & Profit**  
-   Visualize correlation between **sales and profit** to find profitable and unprofitable sales activities.
+   Visualise the correlation between **sales and profit** to find profitable and unprofitable sales activities.
 
 4. **🔄 Period Comparison**  
    Compare **sales**, **profit**, and **quantity sold** between any **two user-selected time periods**.
@@ -52,9 +52,9 @@ The dashboard answers the following key business questions:
    Display the **total number of orders** in the dataset.
 
 7. **🧾 Order-Level Detail & Filtering**  
-   Display full order-level data including:
+   Display full order-level data, including:
    - **Sales**, **Profit**, **Discount**, **Net Sales**, **Quantity Sold**, etc.
-   Visual filtering enabled on:
+   Visual filtering is enabled on:
    - Product  
    - Date  
    - Customer ID  
@@ -91,7 +91,7 @@ The dashboard answers the following key business questions:
 
 ---
 
-## 📊 Sample KPIs Visualized
+## 📊 Sample KPIs Visualised
 
 - Total Sales  
 - Net Profit  
@@ -125,15 +125,17 @@ Here are a few screenshots showcasing the dashboard's analysis and visuals:
 
 1. Clone or download this repository.
 2. Open `ELECTROHUB - Sales Data Analysis.pbix` in **Power BI Desktop**.
-3. Navigate through different report pages and apply filters/slicers for dynamic insights.
+3. Navigate through various report pages and apply filters/slicers to gain dynamic insights.
 4. Modify or expand the dashboard based on your specific needs or new data.
 
 ---
 
 ## 📧 Contact
 
-For questions, improvements, or collaboration opportunities:  
+### For questions, improvements, or collaboration opportunities:
+
 **LinkedIn**: [Samarth D S](https://www.linkedin.com/in/samarthds/)
+
 **Email**: samarthdudi04@gmail.com
 
 ---
