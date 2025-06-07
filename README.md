@@ -105,12 +105,11 @@ The dashboard answers the following key business questions:
 
 Here are a few screenshots showcasing the dashboard's analysis and visuals:
 
-> 📌 Add your dashboard screenshots in the `assets/` folder and reference them like below:
 
 ```
-![Dashboard Overview](assets/dashboard-overview.png)
-![City-wise Sales Analysis](assets/city-sales.png)
-![Top/Bottom Products](assets/top-bottom-products.png)
+![Dashboard Overview](assets/overview.png)
+![City-wise Sales Analysis](assets/req_5.png)(assets/req_4.png)
+![Top/Bottom Products](assets/top_bottom_5.png)
 ```
 
 ---
